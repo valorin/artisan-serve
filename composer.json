@@ -1,0 +1,20 @@
+{
+    "name": "valorin/artisan-serve",
+    "description": "Laravel 5 replacement command for `php artisan serve`.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephen Rees-Carter",
+            "email": "stephen@rees-carter.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/console": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Valorin\\ArtisanServe\\": ""
+        }
+    }
+}
