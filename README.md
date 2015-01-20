@@ -1,5 +1,7 @@
 # Artisan Serve
 
+**Important:** Taylor added the `serve` command back into the framework shortly after I published this... there is no reason to use this package any more.
+
 Simple Laravel 5 replacement command for `php artisan serve`.
 
 ## Installation
